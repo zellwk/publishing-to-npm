@@ -1,6 +1,6 @@
 {
   "name": "publishing-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An example repository to teach people how to publish to npm",
   "main": "index.js",
   "scripts": {
